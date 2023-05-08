@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@esraa155 
-esraa155
-/
-alx-low_level_programming
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Projects
-Wiki
-Security
-Insights
-Settings
-Beta Try the new code view
-alx-low_level_programming/0x15-file_io/100-elf_header.c
-@esraa155
-esraa155 Update 100-elf_header.c
-Latest commit 98d6a87 1 hour ago
- History
- 1 contributor
-277 lines (265 sloc)  5.45 KB
- 
+
 
 #include <elf.h>
 #include <sys/types.h>
