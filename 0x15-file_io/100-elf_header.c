@@ -1,5 +1,3 @@
-
-
 #include <elf.h>
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -277,18 +275,3 @@ int main(int ac, char **av)
 	closes_file(openn);
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
- You signed in with another tab or window. Reload to refresh your session.
